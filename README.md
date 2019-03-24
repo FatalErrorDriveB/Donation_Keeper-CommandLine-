@@ -9,12 +9,14 @@ The command line version of my Donation Keeper application
 
 
 Version 1.1.2
+
 	Changes:
 		Massive error handling improvments
 		Unknown if bug 01 sill occurs but I haven't been able to recreate it.		
 
 
 Version 1.1.1
+
 	Bug Fixes:
 		File format bug (May still occur if imported old list)
 	
@@ -22,6 +24,7 @@ Version 1.1.1
 		01-[Rare] Adding only change (0.xx) adds a full dollar
 
 Version 1.1.0
+
 	Changes:
 		UI improvments
 	
