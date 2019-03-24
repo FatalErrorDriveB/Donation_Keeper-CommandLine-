@@ -2,9 +2,9 @@
 The command line version of my Donation Keeper application
 
 
-Using the program:
-1 - double click "Donation_Keeper.exe"
-2 - choose your option and press "enter"
+	Using the program:
+		1 - double click "Donation_Keeper.exe"
+		2 - choose your option and press "enter"
 (Note: This will create a text file to hold your donations in. Deleting this file will remove all your donations.)
 
 
@@ -29,11 +29,13 @@ Version 1.1.0
 		File Format Error
 
 Version 1.0.0
-	Known Bugs:
-		File Format Error:
-			There is a bug still that may cause the list to appear like this
-				30.33First Last $20.12
-				First $10.21
+	Known Bugs
+	
+	File Format Error:
+		There is a bug still that may cause the list to appear like this
+		30.33First Last $20.12
+		First $10.21
+	Fix:
 
 		If this happens than simply open the donation_total.txt file and move the "Name" down to the next line; 		like so:
 			30.33
