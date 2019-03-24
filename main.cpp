@@ -1,4 +1,3 @@
-// Lab04.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //The main file is cross platform compatable, and issues should only be in custom header files
 //
 
